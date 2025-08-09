@@ -15,11 +15,11 @@ Main file containing the first part of the analysis of the Home Credit dataset.<
 
 [*credit2.ipynb*](./credit2.ipynb)
 
-Main file containing the first part of the analysis of the Home Credit dataset.<br><br>
+Main file containing the second part of the analysis of the Home Credit dataset.<br><br>
 
 [*credit3.ipynb*](./credit3.ipynb)
 
-Main file containing the first part of the analysis of the Home Credit dataset.<br><br>
+Main file containing the third part of the analysis of the Home Credit dataset.<br><br>
 
 [*requirements.txt*](./requirements.txt)
 
